@@ -1,6 +1,6 @@
 1. Check Missing Values
 
-Select the entire dataset → Home → Find & Select → Go To Special → Blanks
+Select each column → Home → Find & Select → Go To Special → Blanks
 =COUNTBLANK(G:G)
 
 Check Duplicate Records
